@@ -1,14 +1,9 @@
 # Hi, I'm Jyothi 👋
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="wave greeting"/>
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&width=700&lines=Software+Engineer;Building+practical+solutions+with+Java+and+SQL;Coding+with+purpose%2C+clarity%2C+and+curiosity" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=jyothivengala29-alt&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
 
